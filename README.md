@@ -1,5 +1,5 @@
 # HR_Dashboard_Using Tableau
-📝 The dashboard demonstrated below addresses the HR datasets that were utilized to develop some attractive insights using Tableau software. The HR Analytics Dashboard delivers an overview of the employee's status and performance in an Organization that can help decision-makers to plan their strategy. This Dashboard is completely dynamic through we can see the granularity of data. For that I used quick filter and also used action filter so if we click on any department it is going to give data for only that department.Also created Education field wise attrition like in Life science background how many employee are active and what are the attrition rate. So in this way we can give insight of HR Department.Similarly added one parameter in Dashboard name ’Age bin’ so whenever we change the age bin it will change with age gap of employee.So from this dashboard we can analyse total insight from HR Dept.
+📝The HR Analytics Dashboard created in Tableau presents valuable HR insights. It shows employee attrition by education and provides an age group parameter for analysis. This dynamic and versatile tool enables granular data analysis using quick filters and action filters, offering a comprehensive overview of employee status, churn rate, and satisfaction rate. This helps decision-makers plan strategies effectively.
 
 ## The dashboard contains the following graphs:
 
@@ -18,14 +18,13 @@ https://user-images.githubusercontent.com/119112730/215687935-2b3fd3bb-5f49-40cd
 ## Task List
 
 
-• How many head counts of Total employee in HR dept.
+• Total number of employees in the HR department.
 
-• What is attrition rate.
+• Attrition rate of employees.
 
-• How many people are active in department wise.
+• Number of active employees by department.
 
-• What are the age bands of active employee whether they are young or whether they are within 30s or above 40s and so on.
-
+• Age group categorization of active employees (e.g. young, 30s, 40s and above).
 
 
 
