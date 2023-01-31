@@ -1,5 +1,5 @@
 # HR_Dashboard_Using Tableau
-📝 The dashboard demonstrated below addresses the HR datasets that were utilized to develop some attractive insights using Tableau software. The HR Analytics Dashboard delivers an overview of the employee's status and performance in an Organization that can help decision-makers to plan their strategy.
+📝 The dashboard demonstrated below addresses the HR datasets that were utilized to develop some attractive insights using Tableau software. The HR Analytics Dashboard delivers an overview of the employee's status and performance in an Organization that can help decision-makers to plan their strategy. This Dashboard is completely dynamic through we can see the granularity of data. For that I used quick filter and also used action filter so if we click on any department it is going to give data for only that department.Also created Education field wise attrition like in Life science background how many employee are active and what are the attrition rate. So in this way we can give insight of HR Department.Similarly added one parameter in Dashboard name ’Age bin’ so whenever we change the age bin it will change with age gap of employee.So from this dashboard we can analyse total insight from HR Dept.
 
 ## The dashboard contains the following graphs:
 
@@ -29,13 +29,15 @@ https://user-images.githubusercontent.com/119112730/215687935-2b3fd3bb-5f49-40cd
 
 
 
-This Dashboard is completely dynamic through we can see the granularity of data. For that I used quick filter and also used action filter so if I am clicking in any department it is going to give data for only that department.Also created Education field wise attrition like in Life science background how many employee are active and what are the attrition rate. So in this way we can give insight of HR Department.Similarly added one parameter in Dashboard name ’Age bin’ so whenever I am clicking its changing with age gap of employee.So from this dashboard we can analyse total insight from HR Dept.
-
 ## Learnings:
+
 ‣ Attrition rate: Commonly referred to as a 'churn rate' is the rate at which people leave a company.
-‣ Use of data blending in Tableau
-‣ Concept of dual-axis
-‣ KPIs in HR Analytics
+
+‣ Use of data blending in Tableau.
+
+‣ Concept of dual-axis.
+
+‣ KPIs in HR Analytics.
 
 
 ## End Notes
