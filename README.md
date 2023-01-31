@@ -31,6 +31,12 @@ https://user-images.githubusercontent.com/119112730/215687935-2b3fd3bb-5f49-40cd
 
 This Dashboard is completely dynamic through we can see the granularity of data. For that I used quick filter and also used action filter so if I am clicking in any department it is going to give data for only that department.Also created Education field wise attrition like in Life science background how many employee are active and what are the attrition rate. So in this way we can give insight of HR Department.Similarly added one parameter in Dashboard name ’Age bin’ so whenever I am clicking its changing with age gap of employee.So from this dashboard we can analyse total insight from HR Dept.
 
+## Learnings:
+‣ Attrition rate: Commonly referred to as a 'churn rate' is the rate at which people leave a company.
+‣ Use of data blending in Tableau
+‣ Concept of dual-axis
+‣ KPIs in HR Analytics
+
 
 ## End Notes
 Good luck! My Linkedin profile are attached in case you want to connect with me. [Linked_link](https://www.linkedin.com/in/suraj-mishra-1a85aa222/)
